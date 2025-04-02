@@ -2,8 +2,7 @@
 
 ## Project Overview
 **Project Title:** Eternal Inference and Layered AI Persistence Research Implementation
-**Duration:** 36 months
-**Principal Investigators:** [To be determined]
+**Expected Duration:** 36 months
 
 ## Phase 1: Conceptual Foundation and Initial Architecture (Months 1-6)
 
